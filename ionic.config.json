@@ -1,0 +1,7 @@
+{
+  "name": "lampara",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
